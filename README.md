@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:Mateus Ribeiro de Souza Lima
+Matricula:898146 
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![DevTools](images/DevToolsBrave.jpg)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Hello World](images/Hello%20World.jpg)
 
 
 ## Orientações sobre Linguagem MarkDown
